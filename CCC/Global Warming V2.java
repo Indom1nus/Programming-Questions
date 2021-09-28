@@ -1,5 +1,5 @@
 import java.util.*;
-public class J42010V2
+public class GlobalWarmingV2
 {
     public static void main(String...args)
     {
